@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/musstaffali/slackcicdbot/issues"
   },
-  "homepage": "https://github.com/musstaffali/slackcicdbot#readme"
+  "homepage": "https://github.com/musstaffali/slackcicdbot#readme",
+  "dependencies": {
+    "@slack/events-api": "^3.0.1"
+  }
 }
